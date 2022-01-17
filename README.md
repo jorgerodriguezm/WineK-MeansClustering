@@ -2,7 +2,7 @@
 
 ## About this Repository
 
-The goal of this repository is to use the Wine Customer Segmentation Dataset to succesfully create clusters of them to extract key information that defines them through Principal Component Analysis and K-Means clustering.
+The goal of this repository is to use the Wine Customer Segmentation Dataset to succesfully extract key information that defines distinct clusters of wines through Principal Component Analysis and K-Means.
 
 ### Published Kaggle Kernel:
 

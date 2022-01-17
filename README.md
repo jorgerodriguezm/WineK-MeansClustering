@@ -1,4 +1,4 @@
-![]()
+![](https://raw.githubusercontent.com/jorgerodriguezm/WineK-MeansClustering/main/Assets/wineryBanner.jpg)
 
 ## About this Repository
 
@@ -6,15 +6,15 @@ The goal of this repository is to use the Wine Customer Segmentation Dataset to 
 
 ### Published Kaggle Kernel:
 
-- [Wine K-Means Clustering]()
+- [Wine K-Means Clustering](https://www.kaggle.com/jorgerodriguezm/wine-k-means-clustering)
 
 ### Model in this Repository:
 
-- [Wine K-Means Clustering]()
+- [Wine K-Means Clustering](https://github.com/jorgerodriguezm/WineK-MeansClustering/blob/main/Model/wine-k-means-clustering.ipynb)
 
 ### Wine Clusters
 
-![]()
+![](https://raw.githubusercontent.com/jorgerodriguezm/WineK-MeansClustering/main/Assets/clusters.png)
 
 ### Wine K-Means Clustering
 
